@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hybon.API/Hybon.API.csproj" />
+  <Project Path="Hybon.Business/Hybon.Business.csproj" />
+  <Project Path="Hybon.DataAccess/Hybon.DataAccess.csproj" />
+  <Project Path="Hybon.Model/Hybon.Model.csproj" Id="7235f9e0-08e8-4bc9-8a55-d77bb8686976" />
+</Solution>
