@@ -1,9 +1,8 @@
 ﻿using System;
 using Dapper;
 using Hybon.DataAccess.Database;
-using Hybon.DataAccess.Interfaces;
-using Hybon.DataAccess.Models;
-
+using Hybon.Business.Interfaces;
+using Hybon.Model.Models;
 
 
 namespace Hybon.DataAccess.Repositories

@@ -8,10 +8,8 @@ namespace Hybon.Model.Models
 {
     public class LoginResponse
     {
-        public string AccessToken { get; set; }
-
-        public string TokenType { get; set; }
-
+        public string ? AccessToken { get; set; }
+        public string ? TokenType { get; set; }
         public DateTime  ExpiresAt { get; set; }
 
     }

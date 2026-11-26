@@ -15,4 +15,9 @@
     <ProjectReference Include="..\Hybon.Business\Hybon.Business.csproj" />
     <ProjectReference Include="..\Hybon.Model\Hybon.Model.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
